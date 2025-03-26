@@ -5,6 +5,7 @@ This project focuses on developing a machine learning model to predict credit ca
 
 ## Dataset
 Dataset Link: [Credit approval](https://archive.ics.uci.edu/dataset/27/credit+approval)
+
 The dataset contains various features related to credit card applicants, including:
 
 - Demographic information
